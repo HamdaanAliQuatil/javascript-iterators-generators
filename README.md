@@ -1,1 +1,1 @@
-# angular-gccp-leaderboard
+# JavaScript Iterators and Generators
